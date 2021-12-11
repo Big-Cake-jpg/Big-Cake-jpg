@@ -1,5 +1,14 @@
-### Hi there 👋
+### 你好，远方的朋友！👋 Hello friends
 
+[![BigCake's GitHub stats](https://github-readme-stats.vercel.app/api?username=Big-Cake-jpg)](https://github.com/anuraghazra/github-readme-stats)
+
+我是一个初二在校生 I’m a middle school student
+我是一位中国公民 I’m a Chinese
+你可以：
+  - 💬 和我聊任何事情 Talk everything with me
+  - 👔 看我的女装照片 Watch my femboy photos
+  - 🎮 和我玩 Minecraft Play Minecraft with me
+  - ✏️ others......
 <!--
 **Big-Cake-jpg/Big-Cake-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
