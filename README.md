@@ -3,7 +3,9 @@
 [![BigCake's GitHub stats](https://github-readme-stats.vercel.app/api?username=Big-Cake-jpg)](https://github.com/anuraghazra/github-readme-stats)
 
 我是一个初二在校生 I’m a middle school student
-我是一位中国公民 I’m a Chinese
+
+我是一位中国公民 I’m Chinese
+
 你可以：
   - 💬 和我聊任何事情 Talk everything with me
   - 👔 看我的女装照片 Watch my femboy photos
