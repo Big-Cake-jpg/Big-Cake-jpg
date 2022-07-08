@@ -4,7 +4,7 @@
 
 我是一个初二在校生 I’m a middle school student
 
-我是一位中国公民 I’m Chinese
+我是一位中国公民 I’m a Chinese citizen
 
 你可以：
   - 💬 和我聊任何事情 Talk everything with me
