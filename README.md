@@ -2,7 +2,7 @@
 
 [![BigCake's GitHub stats](https://github-readme-stats.vercel.app/api?username=Big-Cake-jpg)](https://github.com/anuraghazra/github-readme-stats)
 
-我是一个初二在校生 I’m a middle school student
+我是一个初三在校生 I’m a middle school student
 
 我是一位中国公民 I’m a Chinese citizen
 
