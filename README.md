@@ -1,6 +1,6 @@
 # Hey bro, Big_Cake is here! 👋
 
-<img width="410" height="590" align="right" src="https://blog-api.lihaoyu.cn/images/profile/character-alpha.webp" />
+<img width="275" align="right" src="https://blog-api.lihaoyu.cn/images/profile/character-alpha.webp" />
 
 > Maybe we'll be apart, but we'll never forget each other.
 
