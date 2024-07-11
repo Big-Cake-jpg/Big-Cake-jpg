@@ -33,9 +33,9 @@
 # Blog posts (Chinese)
 
 <!-- BLOG-POST-LIST:START -->
+- [通过自定义主题重写我的博客](https://www.lihaoyu.cn/posts/rewrite-my-blog)
 - [窗边浅谈：形同陌路的“朋友”](https://www.lihaoyu.cn/posts/chat-prologu-by-the-windows-2)
 - [没有衡水命，一身衡水病——盲目复制衡水模式的意义何在？](https://www.lihaoyu.cn/posts/hengshui-disease)
 - [在 Valaxy 中使用 Artalk 作为评论系统](https://www.lihaoyu.cn/posts/use-artalk-in-valaxy)
 - [窗边浅谈：序章](https://www.lihaoyu.cn/posts/chat-prologu-by-the-windows)
-- [【转载】关于 HiPer 的安全性讨论，以及对于近期一些小事的简单介绍](https://www.lihaoyu.cn/posts/about-the-security-vulnerability-of-hiper)
 <!-- BLOG-POST-LIST:END -->
