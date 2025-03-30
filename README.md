@@ -33,9 +33,9 @@
 # Blog posts (Chinese)
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 年，把一加 6T 作为主力机是什么体验？（上）](https://www.lihaoyu.cn/posts/use-oneplus-6t-in-2025-1)
 - [2024 年终总结](https://www.lihaoyu.cn/posts/2024-review)
 - [国行 iPhone 12 强开 Apple 智能](https://www.lihaoyu.cn/posts/force-enable-apple-intelligence-on-china-iphone-12)
 - [通过自定义主题重写我的博客](https://www.lihaoyu.cn/posts/rewrite-my-blog)
 - [窗边浅谈：形同陌路的“朋友”](https://www.lihaoyu.cn/posts/chat-prologu-by-the-windows-2)
-- [没有衡水命，一身衡水病——盲目复制衡水模式的意义何在？](https://www.lihaoyu.cn/posts/hengshui-disease)
 <!-- BLOG-POST-LIST:END -->
