@@ -3,11 +3,9 @@
 
 <img width="275" align="right" src="https://blog-api.lihaoyu.cn/images/profile/character-alpha.webp" />
 
-- 🔭 I’m currently working on [travellings-link/travellings](https://github.com/travellings-link/travellings)
+- 🔭 I’m currently working on [PCL-Community/PCL2-CE](https://github.com/PCL-Community/PCL2-CE)
 
 - 🌱 I’m currently learning **Vue.js**
-
-- 🤝 I’m looking for help with [Hex-Dragon/PCL2](https://github.com/Hex-Dragon/PCL2)
 
 - 📝 I regularly write articles on [https://www.lihaoyu.cn](https://www.lihaoyu.cn)
 
