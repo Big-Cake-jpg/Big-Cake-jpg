@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Big_Cake</h1>
 <h3 align="center">A high school student in China who is learning Frontend develop</h3>
 
-<img width="275" align="right" src="https://blog-api.lihaoyu.cn/images/profile/character-alpha.webp" />
+<img width="325" align="right" src="https://github.com/user-attachments/assets/5320b906-573b-44a6-bde9-a6b71afb596d" />
 
 - 🔭 I’m currently working on [PCL-Community/PCL2-CE](https://github.com/PCL-Community/PCL2-CE)
 
