@@ -31,9 +31,9 @@
 # Blog posts (Chinese)
 
 <!-- BLOG-POST-LIST:START -->
+- [为 PCL CE 添加 Sentry 集成](https://www.lihaoyu.cn/posts/add-sentry-integration-to-pcl-ce)
 - [【转载】舞萌 DX 报错 8103 / 8106 以及 0949 问题原因分析和解决方案](https://www.lihaoyu.cn/posts/maimai-8103-8106-0949-exception-reason-and-solutions)
 - [【转载】舞萌国服 1.53 补丁更新内容速览](https://www.lihaoyu.cn/posts/maimaidx-china-1-53-update-analysis)
 - [站点之间，是生活的片段](https://www.lihaoyu.cn/posts/between-the-stations-are-fragments-of-life)
 - [EdgeOne 免费版，Yes！](https://www.lihaoyu.cn/posts/edgeone-yes)
-- [2025 年，把一加 6T 作为主力机是什么体验？（上）](https://www.lihaoyu.cn/posts/use-oneplus-6t-in-2025-1)
 <!-- BLOG-POST-LIST:END -->
